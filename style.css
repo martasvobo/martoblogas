@@ -29,7 +29,6 @@ li a:hover {
     margin-top: 5px;
     width: 600px;
     height: 210px;
-    background-color: grey;
 }
 
 .foto
@@ -38,7 +37,6 @@ li a:hover {
     float: left;
     width: 200px;
     height: 200px;
-    background-color: grey;
 }
 .antr
 {
@@ -46,7 +44,6 @@ li a:hover {
     float: left;
     width: 380px;
     height: 50px;
-    background-color: grey;
 }
 .txt
 {
@@ -54,5 +51,4 @@ li a:hover {
     float: left;
     width: 380px;
     height: 120px;
-    background-color: grey;
 }
