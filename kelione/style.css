@@ -1,0 +1,23 @@
+h1{
+    color:rgb(20, 120, 167);
+    text-align: center;
+    font-size: 50pt;
+}
+body{
+    background-color: rgb(255, 250, 179)
+}
+.list{
+    font-size: 30pt;
+    color: rgb(6, 173, 202);
+}
+img{
+    height: 400px;
+}
+.random{
+    color: rgb(35, 47, 83);
+    font-size: 20pt;
+}
+#vardas{
+    font-weight: bold;
+    font-size: 15pt;
+}
